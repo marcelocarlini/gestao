@@ -2,7 +2,7 @@
 
 <ul>
     <li>
-        <a href="{{ route('site.index') }}">Principal</a>
+        <a href="{{ route('site.index') }}">Principal do galo doido</a>
     </li>
     <li>
         <a href="{{ route('site.sobrenos') }}">Sobre nós</a>
